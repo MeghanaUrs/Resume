@@ -3,7 +3,7 @@
 📍 **Mississauga, ON**  
 📞 **647-327-7027**  
 ✉️ **Urs.meghan@gmail.com**  
-🌐 **LinkedIn:** [linkedin.com/in/meghana-urs](#) *(Add your LinkedIn URL here)*  
+🌐 **LinkedIn:** www.linkedin.com/in/meghana-urs-799362a9 
 
 ---
 
