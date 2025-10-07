@@ -8,7 +8,7 @@
 ---
 
 ## 💼 Profile Summary
-Accomplished **Data Engineer** with **10+ years** of experience designing, optimizing, and automating enterprise-scale data systems across **healthcare, retail, and finance** industries.  
+Accomplished **Data professional** with **10+ years** of experience designing, optimizing, and automating enterprise-scale data systems across **healthcare, retail, and finance** industries.  
 Expert in **SQL Server, Azure Data Factory, and Power BI**, with a proven record of enhancing **data quality, governance, and automation** for Fortune 500 environments.  
 Improved analytics performance by **50%** and reduced reporting latency through **scalable, compliant data solutions**.  
 Recognized with the **IBM Certificate of Excellence** for outstanding SQL Server DBA performance.
