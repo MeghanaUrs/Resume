@@ -57,7 +57,7 @@ Recognized with the **IBM Certificate of Excellence** for outstanding SQL Server
 - Improved ETL data accuracy by **25%** through automated validation.  
 
 ### **Earlier Experience**
-- **UST Global | System Analyst / Database Migration Engineer (2015–2017)** – Migrated 100+ hospital databases using SSIS, improving performance by **45%**.  
+- **UST Global | System Analyst / Database Migration Engineer (2015–2017)** – Migrated hospital databases using SSIS, improving performance by **45%**.  
 - **IBM India | Senior SQL Server DBA (2011–2014)** – Managed 300+ SQL Server instances, led automation and compliance audits; received **IBM Certificate of Excellence**.  
 
 ---
