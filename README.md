@@ -74,18 +74,7 @@ Visvesvaraya Technological University – Bangalore, India
 - Microsoft Certified: Azure Data Engineering *(in progress)*  
 - AWS Certified Cloud Practitioner *(planned)*  
 
----
 
-## 💡 Career Focus
-Seeking opportunities as a **Data Engineer / Cloud Data Architect** with Fortune 500 or Life Sciences organizations that value **data governance, compliance, automation, and performance optimization** in cloud-based analytics ecosystems.
 
----
-
-## 📘 Repository Information
-This repository contains:
-- `Meghana_Urs_Data_Engineer_Resume.docx` – Full 2-page ATS-optimized resume  
-- `README.md` – Overview of professional profile and career summary  
-
----
 
 © 2025 Meghana Urs. All Rights Reserved.
