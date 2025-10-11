@@ -71,8 +71,8 @@ Visvesvaraya Technological University – Bangalore, India
 ## 🏅 Certifications
 - IBM Certificate of Excellence – SQL Server DBA  
 - Google AI Essentials  
-- Microsoft Certified: Azure Data Engineering *(in progress)*  
-- AWS Certified Cloud Practitioner *(planned)*  
+- Udemey: Azure Data Engineering   
+
 
 
 
